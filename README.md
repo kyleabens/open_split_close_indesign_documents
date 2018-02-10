@@ -1,1 +1,1 @@
-# open_split_close_indesign_documents
+This script iterates through all of the sub folders of the selected folder and searches for any .indd files. It then opens each InDesign document and saves each page as a separate InDesign file in a given location and closes the document.
